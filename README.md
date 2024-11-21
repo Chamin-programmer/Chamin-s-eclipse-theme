@@ -1,4 +1,4 @@
-# Chamin-eclipse-theme
+# Kami-eclipse-theme
 
 このテーマは私が普段使っているVRChatのアバターをエクリプスの背景にするプログラムです。
 
@@ -25,8 +25,8 @@
 
 # Author
 
-* Chamin
+* Kami
 
 # License
 
-"Chamin-eclipse-theme" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"Kami-eclipse-theme" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
